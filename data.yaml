@@ -1,0 +1,7 @@
+
+path: D:/SHIVAA/CODES/yolo.v1i.yolov8
+train: D:/SHIVAA/CODES/yolo.v1i.yolov8/train
+val: D:/SHIVAA/CODES/yolo.v1i.yolov8/valid
+
+nc: 4  # Number of classes
+names: ['barrel_jellyfish', 'blue_jellyfish', 'compass_jellyfish', 'lions_mane_jellyfish']  # Replace with your class names
